@@ -1,0 +1,6 @@
+env="dev"
+cidr_block="172.21.1.0/24"
+subnet1_cidr="172.21.1.0/28"
+subnet1_az="eu-west-1a"
+subnet2_cidr="172.21.1.16/28"
+subnet2_az="eu-west-1b"
